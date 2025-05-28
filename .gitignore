@@ -1,0 +1,4 @@
+config/*.txt
+extensions/.cache/
+extensions/blender_org/
+scripts/modules/

@@ -1,0 +1,7 @@
+[submodule "extensions/user_default/blend_vault_ext"]
+	path = extensions/user_default/blend_vault_ext
+	url = https://github.com/AMC-Albert/blend_vault_ext
+[submodule "extensions/user_default/RightMouseNavigation"]
+	path = extensions/user_default/RightMouseNavigation
+	url = https://github.com/AMC-Albert/RightMouseNavigation
+	branch = rewrite
