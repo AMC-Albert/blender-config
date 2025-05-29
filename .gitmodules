@@ -1,3 +1,6 @@
 [submodule "extensions/user_default/blend_vault_ext"]
 	path = extensions/user_default/blend_vault_ext
 	url = https://github.com/AMC-Albert/blend_vault_ext
+[submodule "extensions/user_default/fly_nav_ext"]
+	path = extensions/user_default/fly_nav_ext
+	url = https://github.com/AMC-Albert/fly_nav_ext
