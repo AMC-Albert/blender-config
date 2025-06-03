@@ -1,4 +1,5 @@
 config/*.txt
-extensions/.cache/
-extensions/blender_org/
+.cache/
 scripts/modules/
+.blender_ext/
+__pycache__/
