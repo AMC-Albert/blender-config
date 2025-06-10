@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "passpartout_slider"
+version = "1.0.0"
+name = "Passpartout Slider"
+tagline = "Let's you control active camera Passpartout by pressing P"
+maintainer = "Constantine Vojik <vojikcosta@gmail.com>"
+
+type = "add-on"
+tags = ["Camera"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+copyright = ["2024 Constantine Vojik"]
