@@ -4,3 +4,6 @@
 [submodule "extensions/user_default/fly_nav_ext"]
 	path = extensions/user_default/fly_nav_ext
 	url = https://github.com/AMC-Albert/fly_nav_ext
+[submodule "extensions/user_default/hdiff_tool_ext"]
+	path = extensions/user_default/hdiff_tool_ext
+	url = https://github.com/AMC-Albert/hdiff_tool_ext
